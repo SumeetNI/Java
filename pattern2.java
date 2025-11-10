@@ -44,7 +44,7 @@ public class pattern2 {
     }
 */
 
-
+/*
 public class pattern2 {
 static void invertPy(int n){
      for (int i=1; i<=n; i++){
@@ -59,3 +59,4 @@ static void invertPy(int n){
     }
 
 }
+*/
